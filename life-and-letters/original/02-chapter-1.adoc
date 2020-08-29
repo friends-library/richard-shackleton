@@ -1,7 +1,12 @@
 == Chapter I.
 
-Birth of Richard Shackleton--Some account of his parents-- Circumstances attendant on
-Richard Shackleton`'s youth--His marriage--Extracts from letters--Decease of his wife
+[.chapter-synopsis]
+* Birth of Richard Shackleton
+* Some account of his parents
+* Circumstances attendant on Richard Shackleton`'s youth
+* His marriage
+* Extracts from letters
+* Decease of his wife
 
 Richard Shackleton was born in Ballitore, on the 9th of the 10th month, 1726.
 His grandfather, whose name he bore, was a native of Yorkshire, where he married,
@@ -136,9 +141,11 @@ appear to be those who have neglected or despised the improvement of their own a
 and endeavoured to depreciate those intellectual powers and accomplishments,
 which they were either unwilling or unable to comprehend; who, in, the words of Gay,
 
+[verse]
+____
 "`O`'erlook with scorn all virtuous arts;
-
 For vice is fitted to their parts.`"
+____
 
 When Richard Shackleton was but five years old,
 his heart experienced the touches of Divine love;
@@ -167,6 +174,9 @@ For this purpose he spent some time in Dublin, attending lectures at the college
 and learning the Hebrew language.
 The pious care exercised over him, when absent from his parents,
 will appear by the following extracts from letters written to him by his father.
+
+[.embedded-content-document.letter]
+--
 
 1744+++.+++ Keep thy mind as quiet as possible,
 so that thou mayst have benefit of this little tour.
@@ -198,7 +208,7 @@ Experience tells us here, too, that the prodigal must know want.
 [.asterism]
 '''
 
-Thou hast been pretty much in my mind since we parted,
+1748+++.+++ Thou hast been pretty much in my mind since we parted,
 and I have often remembered that portion of Scripture: "`The refining pot is for silver,
 and the furnace for gold.`"
 Various are the probations that are permitted to fall to our share, in this vale of tears.
@@ -212,7 +222,8 @@ and know its dependance on that from whence living nourishment springs.
 Surely, the all-wise God hath, for a wise and blessed end,
 dispensed day and night to our souls, as well as to the outward creation,
 to engage and enamour our souls to love Him.
-1748.
+
+--
 
 Richard Shackleton very early in life became attached to Elizabeth,
 youngest daughter of Henry and Deborah Fuller;^
@@ -266,6 +277,10 @@ made a deep impression on their minds, from which many received lasting advantag
 The following extracts from letters written in the year 1752,
 instructively depict the state of Richard Shackleton`'s mind at this period.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 7th of 4th Month.
 
 Had I kept, as I believe thou dost, to my first love,
@@ -283,6 +298,7 @@ but part not with it for all the world.`"
 [.asterism]
 '''
 
+[.signed-section-context-open]
 14th of 6th Month.
 
 I have had a pretty deal of Mary Peisly`'s company since my last.
@@ -303,6 +319,7 @@ by losing the company of the invisible as well as visible friend.
 [.asterism]
 '''
 
+[.signed-section-context-open]
 25th of 9th Month.
 
 Oh! how I love uprightness and plain dealing; a heart which loves its friends sincerely;
@@ -340,6 +357,7 @@ and let not that get up which would render evil for evil, but overcome evil with
 [.asterism]
 '''
 
+[.signed-section-context-open]
 14th of 10th Month.
 
 I have, I confess, been favoured at times, since my last,
@@ -365,6 +383,8 @@ to the will and disposal of the great Lord of the harvest,
 dedicating freely and cheerfully, as our forefathers did, all we have,
 internal and external, to his service.
 
+--
+
 The following is an extract from the only letter which has been found,
 from Richard Shackleton to his wife.
 They were not often separated: they probably hoped to pass a long life together,
@@ -374,8 +394,13 @@ and he often regretted his not having one letter by him,
 of the few he had received from the dear object of his youthful love,
 who was tenderly remembered by him through the whole of his succeeding life.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Dublin, 6th of 11th Month, 1752.
 
+[.salutation]
 My Dear Wife,
 
 I trust it is the Lord, the God of our fathers and forefathers,
@@ -390,9 +415,13 @@ and the times of refreshment from before his presence; that so,
 having desired him that he may be the stay of our youth,
 we may experience him (if length of days be continued to us) to be the staff of our age.
 
+[.signed-section-closing]
 Thy tender, affectionate husband,
 
+[.signed-section-signature]
 Richard Shackleton.
+
+--
 
 In the spring of 1754, an afflictive dispensation was allotted to Richard Shackleton.
 On the ninth day after the birth of his son Henry, he was deprived, by death,
@@ -407,8 +436,18 @@ He had lost her when, from youth and health,
 they might naturally have looked forward to many happy years:
 but the great Disposer of events, in his inscrutable wisdom, ordered otherwise.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to +++________+++
 
+[.signed-section-context-open]
+[.signed-section-context-open]
 Ballitore, 2nd of 1st Month, 1755.
 
 I have the comfort to tell thee, without boasting,
@@ -420,13 +459,19 @@ whose spirit I am at times nearly united unto, when in the depth of affliction;
 and whose better part I fervently pray to rejoin, when my trials, my baptisms,
 my provings, and solitary sorrows, which are many, shall be over.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From the Same to the Same.
 
+[.signed-section-context-open]
+[.signed-section-context-open]
 Ballitore, 29th of 6th Month, 1755.
 
 Outward trials are suffered to come to prove us,
@@ -439,8 +484,13 @@ but if such storms only drive us nearer to the shelter
 of that hand which is full of blessing,
 then they have a good effect.
 
-"`Who sees not Providence all good and wise,
+[verse]
+____
+Who sees not Providence all good and wise,
+Alike in what he gives and what denies?--Pope.
+____
 
-Alike in what he gives and what denies?`"--Pope.
-
+[.signed-section-signature]
 Richard Shackleton.
+
+--

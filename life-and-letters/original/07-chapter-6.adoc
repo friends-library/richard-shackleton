@@ -1,9 +1,17 @@
 == Chapter VI.
 
-Letters.--The illness and decease of Richard Shackleton.--Death of Elizabeth Shackleton.
+[.chapter-synopsis]
+* Letters
+* The illness and decease of Richard Shackleton
+* Death of Elizabeth Shackleton
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Ballitore, 21st of 1st Month, 1789.
 
 My mind is often humbled in deep thankfulness, on account of divers of you,
@@ -33,13 +41,18 @@ she seems as a piece of myself.`"
 Is not this multum in parvo?
 +++[+++i.e. much in little].
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Wife.
 
+[.signed-section-context-open]
 Waterford, 19th of 5th Month, 1789.
 
 It is thirty-five years, this day,
@@ -76,13 +89,18 @@ If it will be any encouragement or satisfaction to her,
 I can freely say I have near unity with her sweet effusions,
 and her deportment and conduct preaches loudly (I wish I could say effectually) to me.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From the Same to the Same.
 
+[.signed-section-context-open]
 Hubberston, 23rd of 6th Month, 1789.
 
 Now, my beloved companion and dearest friend, for thy satisfaction I may inform thee,
@@ -109,13 +127,18 @@ maketh not haste, but patiently waiteth for the former and the latter rain:
 the former to fructify, and bring to maturity the heavenly harvest;
 the latter to replenish and reward the fruitful soil, and prepare for another crop.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Ballitore, 27th of 6th Month, 1789.
 
 I am glad thy honest Samuel was so well pleased with his excursion,
@@ -146,15 +169,21 @@ But, if it were even Paradise itself, so long as it is on earth,
 Satan will contrive to get into it, and, if possible, will defeat, deform, and defile;,
 so let us watch and be sober,
 
-Richard Shackleton
+[.signed-section-signature]
+Richard Shackleton.
 
-[.asterism]
-'''
+--
 
-Richard Shackleton To Sarah R. Grubb.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to Sarah R. Grubb.
+
+[.signed-section-context-open]
 Ballitore, 22nd of 8th Month, 1789.
 
+[.salutation]
 My Dear Cousin,
 
 I have been writing to some great folk, and dispatched my yearly epistle to thy mother.
@@ -198,13 +227,18 @@ and help thee in every respect.
 The whole plantation at Suir Island, trees, saplings, and underwood,
 have all my warm wishes for their growth and prosperity.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
-Richard Shackleton To Sarah R. Grubb.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to Sarah R. Grubb.
+
+[.signed-section-context-open]
 Ballitore, 16th of 12th Month, 1789.
 
 When we prescribe for such as thou art, we must also take in the mind,
@@ -240,13 +274,18 @@ and your peace will run down as a river in the present life,
 bearing and supporting your spirits till you are conveyed
 to the ocean and fulness of everlasting peace and joy
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Ballitore, 5th of 2nd Month, 1790.
 
 We are mercifully favoured here with pretty good health, except our sweet,
@@ -274,15 +313,21 @@ seek each other`'s improvement in the best things,
 and are as desirous each for the opportunity of the other`'s spiritual advantage,
 as his or her own.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
-Richard Shackleton To Sarah R. Grubb.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to Sarah R. Grubb.
+
+[.signed-section-context-open]
 Ballitore, 11th of 2nd Month, 1790.
 
+[.salutation]
 My Dear Cousin,
 
 Thy last written communications to me, dated the 1st day of this year,
@@ -339,15 +384,21 @@ Desiring thy continued increase in good, and expecting to be favoured with a vis
 manual token of thy remembrance, when a favourable coincidence shall fall out,
 with dear love to thee and cousin Robert,
 
+[.signed-section-closing]
 I remain thy very affectionate kinsman,
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
-Richard Shackleton To John Thorp.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to John Thorp.
+
+[.signed-section-context-open]
 Ballitore, 14th of 3rd Month, 1790.
 
 It is not a time for servants who have been trained in a holy discipline,
@@ -379,13 +430,18 @@ eat the fruits of her industry--to tarry at home,
 and divide, among her friends and neighbours,
 the precious spoil won by her honest services.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Sarah.
 
+[.signed-section-context-open]
 Ballimurry, 14th of 4th Month, 1790.
 
 I cannot say when I shall get home.
@@ -421,13 +477,18 @@ remembering that that which is born of the flesh is only flesh,
 and profiteth nothing there;
 flesh and blood not being capable of entering into the spiritual kingdom.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Wife.
 
+[.signed-section-context-open]
 London, 2nd of 6th Month, 1790.
 
 Did I mention that this yearly meeting ordered a commodious place to be purchased,
@@ -441,17 +502,24 @@ as at the footstool of the throne as when the outward temple was to be built,
 and the people offered so willingly.
 I more and more find this yearly meeting lie close to my heart.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
-Richard Shackleton To Sarah R. Grubb.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to Sarah R. Grubb.
+
+[.centered]
 On her setting out on her second visit to the continent.
 
+[.signed-section-context-open]
 London, 5th of 6th Month, 1790.
 
+[.salutation]
 My Dear Cousin,
 
 I+++.+++ P. informing me that it was necessary to send the enclosed letter under a cover,
@@ -486,17 +554,24 @@ but interpret it as the effusion of simplicity and love.
 Do let us know how you get on every way.
 Many are deeply interested in your welfare, and among those,
 
+[.signed-section-closing]
 Thy truly affectionate friend and kinsman,
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Ballitore 8th of 7th Month, 1790.
 
+[.salutation]
 My Dear Margaret,
 
 I have indeed abundant and renewed cause of thankfulness to our Almighty Benefactor,
@@ -531,15 +606,21 @@ and I met with opportunity of cultivating a pleasing
 and profitable intimacy with some new ones.
 I saw my friend Burke, had him awhile to myself, and admired and loved him afresh.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
-Richard Shackleton To Sarah R. Grubb.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to Sarah R. Grubb.
+
+[.signed-section-context-open]
 Carlow, 19th of 7th Month, 1790.
 
+[.salutation]
 My Beloved Cousin,
 
 My wife and I, and several of us of this monthly meeting,
@@ -586,15 +667,21 @@ are among those subjects of solicitous travail which are interwoven with my best
 Peace be to you, and peace to your helpers!
 The Lord hath helped, doth, and will help you.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Ballitore, 23rd of 11th Month, 1790.
 
+[.salutation]
 My Beloved Margaret,
 
 It was very kind, in thy situation, to take the trouble of writing.
@@ -638,21 +725,26 @@ but to the impoverishing and debilitating of the
 general effort for promoting the common cause.
 I hear that account has been received of the release of our dear friend, William Mathews,
 from this warfare.
-* * Now,
-my dear M. with the one heart of two parents affectionately
+Now, my dear M. with the one heart of two parents affectionately
 solicitous for thy happy release,
 in due season, from every burden, and that all sorrows may, in the Lord`'s time,
 be changed into joy, I bid thee most tenderly and cordially farewell.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
-Richard Shackleton To S. G.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to S. G.
+
+[.signed-section-context-open]
 Ballitore, 25th of 11th Month, 1790.
 
+[.salutation]
 My Dear Samuel,
 
 This morning we received the account of my sweet
@@ -667,15 +759,21 @@ He who does all things in perfect wisdom, and knows what is best for us all,
 thus orders respecting us, that we may by his humbling, refining dispensations,
 be made what he would have us to be.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
-Richard Shackleton To Sarah R. Grubb.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to Sarah R. Grubb.
+
+[.signed-section-context-open]
 Ballitore, 27th of 11th Month, 1790.
 
+[.salutation]
 My Dear Cousin,
 
 I often crave to be preserved from stealing, and taking the great name in vain; that is,
@@ -741,6 +839,7 @@ and restore her to her family, to her friends, and to the church;
 which stands greatly in need of well-qualified, experienced, devoted, active members,
 who have witnessed the dispensation of preparation for acceptable service.
 
+[.signed-section-closing]
 Farewell, my beloved friend and cousin.
 
 29th. This letter has been delayed; and we have, since it was written,
@@ -750,12 +849,18 @@ By Elizabeth Pim`'s letter, I find several of you were bound for Cork.
 I might indeed have thought of the quarterly meeting being to be there.
 Once more, and evermore, my dear cousin, farewell!
 
+[.signed-section-signature]
 Richard Shackleton.
+
+--
 
 The following letter, dictated by Sarah R. Grubb, four days before her decease,
 in reply to the preceding from Richard Shackleton concludes this interesting correspondence.
 Sarah R. Grubb was seized with a fever whilst at Cork, and died the 8th of 12th month,
 1790.
+
+[.embedded-content-document.letter]
+--
 
 Thy salutation met me, though apparently out of course, in the right time;
 being under impressions which make time and circumstances of little account,
@@ -772,15 +877,21 @@ and conflicts of flesh and spirit,
 an interest is mercifully granted in Him who giveth victory over death, hell,
 and the grave.
 
+[.signed-section-signature]
 Sarah R. Grubb.
 
-[.asterism]
-'''
+--
 
-Richard Shackleton To Robert Grubb.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to Robert Grubb.
+
+[.signed-section-context-open]
 Ballitore, 28th of 12th Month, 1790.
 
+[.salutation]
 Dear Cousin Robert,
 
 I doubt not but thou hast had many affectionate, sympathizing,
@@ -814,13 +925,18 @@ according to thy measure, in some part,
 the great loss which the church militant has sustained,
 by the translation of this noble and splendidly-useful instrument from earth to heaven.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Ballitore, 25th of 1st Month, 1791.
 
 May we all be preserved objects of gracious, condescending regard;
@@ -841,15 +957,21 @@ which they may safely and happily follow; and having had the high honour of bein
 in any degree, engaged in the promotion of the reign and government of Christ on earth,
 may be eternally happy with him in his heavenly kingdom.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From the Same to the Same.
 
+[.signed-section-context-open]
 Ballitore, 2nd of 3rd Month, 1701.
 
+[.salutation]
 My Dear Margaret,
 
 Thy mother received thine of 26th ult.
@@ -874,15 +996,25 @@ Thy sister Sarah holds herself in readiness to go with Mary Dudley.
 I hope it is right, but I am sure it is a close trial to us.
 I feel a soft part in my nature: nature must get vent.
 
+[.signed-section-signature]
 Richard Shackleton.
 
+--
+
+[.offset]
 In this year, (1791,) Mary, third daughter of Richard Shackleton,
 was married to William Leadbeater.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Elizabeth Shackleton to His Son-In-Law Leadbeater.
 
+[.signed-section-context-open]
 Lurgan, 13th of 4th Month, 1791.
 
+[.salutation]
 Dear William,
 
 Having written to thy mother, and the rest of our children in Ballitore,
@@ -917,13 +1049,18 @@ appears clothed with the spirit of the gospel;
 dear S. W.`"s little effusions are very acceptable; R. G., I hope, well concerned.
 So we are getting on as well as we can, cautious and fearful, that so we may do no hurt.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Wife.
 
+[.signed-section-context-open]
 Lurgan, 19th of 4th Month, 1791.
 
 The good and gracious Master would favour and overshadow with his goodness, but vain,
@@ -944,13 +1081,18 @@ and fought with ardour to get the enemy of the true seed cast out of the land.
 
 The monthly meeting proved a favoured, owning, bowing season.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From the Same to the Same.
 
+[.signed-section-context-open]
 London, 12th of 5th Month, 1791.
 
 Last afternoon I attended another sitting of the Committee on the Queries.
@@ -991,13 +1133,18 @@ then to the flock, the sheep, and lambs of Christ,
 if indeed we feel that we are appointed by the chief
 Shepherd to take any oversight thereof.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Mary Leadbeater.
 
+[.signed-section-context-open]
 1791.
 
 I earnestly desire thy particular attention to thy mother.
@@ -1007,13 +1154,18 @@ Thou knowest the tenderness of the conjugal tie, and therefore thou wilt bear wi
 I am persuaded that thy husband, who is the very model of good nature, humanity,
 and equanimity, will do his part of this business.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Son.
 
+[.signed-section-context-open]
 London, 18th of 5th Month, 1791.
 
 Alterations, changes, dismemberments, etc. will fall out in families.
@@ -1044,15 +1196,21 @@ For my part I was favoured to feel deeply, and to mourn, as I would wish,
 the church`'s loss.
 So much for that bright star, now set forever to this lower world.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Colebrook Dale, 4th of 6th Month, 1791.
 
+[.salutation]
 My Dear Margaret,
 
 Believing it will be acceptable to thee to hear from me,
@@ -1127,13 +1285,18 @@ Remember me affectionately to thy worthy husband, sweet children,
 all relations and friends.
 I must particularize my dear E. P.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Wife.
 
+[.signed-section-context-open]
 Manchester, 7th of 6th Month, 1791.
 
 Sarah Taylor, to all appearance, is not likely to hold out many weeks.
@@ -1145,13 +1308,18 @@ her cloudless sun was about to set forever.
 We spent a few days at Colebrook Dale to satisfaction,
 to which the company of R. R. did not a little contribute.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Ballitore, 23rd of 8th Month, 1791.
 
 Who is exempt from trials and temptations?
@@ -1181,15 +1349,21 @@ Let thine heart keep the commandments of wisdom, and the law of the spirit;
 
 Farewell, my dear child; I am thankful that I am thy affectionate father,
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From the Same to the Same.
 
+[.signed-section-context-open]
 Ballitore, 22nd of 11th Month, 1791.
 
+[.salutation]
 My Beloved Margaret,
 
 I was favoured with thy very acceptable letter,
@@ -1217,13 +1391,18 @@ at the awful day of decision, our spirits, disrobed of this mortal clothing,
 may hear the blessed sentence with unspeakable joy,
 and be mercifully separated to eternal felicity.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Wife.
 
+[.signed-section-context-open]
 Mountmellick, 29th of 11th Month, 1791.
 
 I know not how it may continue with me,
@@ -1244,13 +1423,18 @@ for the promotion of this blessed cause;
 in which they will have peace and the favour of their great Creator,
 which is far beyond all that this world can afford.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to his Son.
 
+[.signed-section-context-open]
 12th Month, 1791.
 
 It is marvellous how A. T. holds out in the depth of winter:
@@ -1279,13 +1463,18 @@ The elders, the trained servants, the baptized, baptizing ministers,
 are gone and going off the stage: "`Your fathers, where are they?
 and the prophets, do they live forever?`"
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Sarah, (Then Attending Samuel Neale.)
 
+[.signed-section-context-open]
 Ballitore, 28th of 1st Month, 1792.
 
 We are much concerned that thou hast no more favourable
@@ -1308,13 +1497,18 @@ unpleasant, if not miserable.
 So, my dear Sarah, continue to be a good, obedient child,
 that I may continue to be a glad and grateful father.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From the Same to the Same.
 
+[.signed-section-context-open]
 Ballitore, 16th of 2nd Month, 1792.
 
 Whatever symptoms may attend our dear friend`'s bodily disorder,
@@ -1335,15 +1529,21 @@ are fervent on his behalf, not doubting but that,
 whatever way Infinite Wisdom shall be pleased to dispose, it will be well,
 everlastingly well with him.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From the Same to the Same.
 
+[.signed-section-context-open]
 Ballitore, 29th of 2nd Month, 1792.
 
+[.salutation]
 My Dear Child,
 
 Last evening We received the sorrowful tidings of the decisive event,
@@ -1360,13 +1560,18 @@ the yoke of Christ upon the neck in the early part life;
 how such, in time of trouble, and when old age and infirmities increase, have an asylum,
 a sanctuary to flee to, wherein they find protection and safety!
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From the Same to the Same.
 
+[.signed-section-context-open]
 Ballitore, 12th of 3rd Month, 1792.
 
 I would not have thee be too concise, nor get a habit of concealing and suppressing,
@@ -1384,13 +1589,18 @@ use of the opportunity put into the hand,
 and not deferring, procrastinating, and reasoning, till the vision fadeth,
 the understanding becomes clouded, and the strength and spiritual animation is gone.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
-Richard Shackleton To John Thorp.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to John Thorp.
+
+[.signed-section-context-open]
 Ballitore, 3rd of 4th Month, 1792.
 
 It is now above a year since I was favoured with
@@ -1465,13 +1675,18 @@ for above forty years, and evidently crowned his religious labours.
 As he was an early and intimate friend of mine, I cannot but feelingly,
 though resignedly, mourn his loss.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Sarah.
 
+[.signed-section-context-open]
 Colebrook Dale, 12th of 5th Month, 1792.
 
 It looks as if we should stay here today and tomorrow, as none of our company,
@@ -1510,13 +1725,18 @@ ever unite thee to my heart;
 which earnestly desires (and desires nothing more for you all than)
 that you may walk in the fear and wisdom of our great Creator.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Mary Leadbeater.
 
+[.signed-section-context-open]
 London, 19th of 5th Month, 1792 (Dies quern semper acerbum habebo.)^
 footnote:[The day on which Richard Shackleton lost his first wife.]
 
@@ -1545,13 +1765,18 @@ affectionate care of her; and her prospect, whether she looks backward or forwar
 as to herself, seems, in my estimation, bright and clear;
 so to all-wise and all-merciful Providence, I commit and commend you all.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Wife.
 
+[.signed-section-context-open]
 Clonmel, 2nd of 8th Month, 1792.
 
 My nearest natural connections, present or absent, are the objects of my affectionate,
@@ -1563,13 +1788,18 @@ the latter I had some time ago, but it was attended with very little of the form
 I now and then am, at this season, much gratified with her lively effusions,
 and I never was so much pleased with her little flock before.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Mary Leadbeater.
 
+[.signed-section-context-open]
 Clonmel, 4th of 8th Month, 1792.
 
 It is very pleasing intelligence that thy mother is as well as usual.
@@ -1587,13 +1817,18 @@ so as that the aggregate may be most to our advantage; as said the royal psalmis
 "`How precious also are thy thoughts unto me, O God!
 How great is the sum of them.`"
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Ballitore, 9th of 8th Month, 1792.
 
 We should be pleased with intelligence concerning E. H.
@@ -1603,22 +1838,29 @@ on his holy errands; and that, notwithstanding our lapsed state,
 so many are found worthy to be honoured with a commission from the Great King,
 and willing to take as it were their lives in their hands, and run to and fro,
 that the saving knowledge of God and Christ may be increased in the earth.
-* *
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From the Same to the Same.
 
+[.signed-section-context-open]
 Ballitore, 20th of 8th Month, 1792.
 
 I expect to go to Mountmellick tomorrow, to attend the monthly meeting there next day,
 and join in a visit to the provincial school.
 My precious Margaret, farewell!
 
+[.signed-section-signature]
 Richard Shackleton.
+
+--
 
 Withdrawn from the busier scenes of life, while their sun descended brightly,
 Richard and Elizabeth Shackleton were solicitous,
@@ -1626,7 +1868,7 @@ not only for the welfare of their own family, and the society to which they belo
 but for the race of mankind.
 When Richard Shackleton returned home after journeys taken from motives of duty,
 he returned with a thankful and cheerful heart,
-although sometimes in tears-- tears springing from grateful sensations;
+although sometimes in tears--tears springing from grateful sensations;
 for he enjoyed all his comforts of every kind; desiring nothing but what was allowable;
 and with pious resignation submitted to the bereavements,
 which his susceptible nature poignantly felt.
@@ -1701,335 +1943,8 @@ This event caused a wide-spreading sorrow, wherever the dear deceased was known;
 but bitter indeed were the tears of his wife and children: his little grandchildren too,
 young as they were, could most of them feel the pang of separation.
 
-[.asterism]
+[.small-break]
 '''
-
-The Testimony of Carlow Monthly Meeting, respecting Richard Shackleton,
-though it alludes to circumstances in his life which
-have been narrated in the foregoing memoir,
-is here introduced, as containing some particulars of his last illness,
-and affording proof of the estimation in which he was held by his friends.
-
-Richard Shackleton was the only son of Abraham and Margaret Shackleton,
-respecting whom honourable mention hath been made
-in a testimony given forth by this meeting,
-and was born at Ballitore, the 28th of 7th month, (O. S.) 1726.
-Discovering early an inclination for learning, Ins father, who kept a boarding-school,
-had him instructed in the necessary qualifications
-for assisting and succeeding him in that useful occupation.
-An account of the visitations of Divine love mercifully extended to him,
-is found in his own writing, in a letter to a near friend, conveying much instruction,
-as follows:
-"`God Almighty visited my spirit with a sense of his goodness (precious
-above all things) in the very early part of my life,
-as early as I think I have any remembrance.
-He graciously renewed the same divine influence upon my soul,
-at various seasons of my childhood and more advanced youth.
-This sense and savour was everything needful to me; it was knowledge enough,
-strength enough, joy and comfort in abundance:
-while in possession of this I wanted nothing; all things as to me were right.
-But temptations, suited to my cast and dispositions as a boy, were thrown in my way:
-puerile amusements, reading unprofitable, vain books were spread before me,
-and I was at times taken in the snare.
-When the heart gave its preference to these gratifications, the heavenly guest withdrew,
-and would not reside with such rivals.
-Yet good and gracious was the Lord, who, notwithstanding my unfaithfulness,
-would knock again for an entrance, and offer again to visit;
-and as I opened the door of my heart,
-(or rather He opened by his spirit,) he came in with the power of his judgments,
-and by his operative word burned up the chaffy, combustible nature;
-and this office being over, remained a flame of pure and heavenly joy.
-So I experienced him to be not only a jealous God, but a consuming fire.
-Thus, with these alternate visits and conflicts,
-I went on till I grew to a more advanced stage of youth; then the subtle nets of glossy,
-worldly wisdom, and the toils of youthful lasts, which war against the soul,
-proved too strong for me,
-and often carried my vessel back again down the stream of natural inclination.
-Arrived at manhood, and being about to settle in life,
-a high hand arrested me in my course, showed me my state of alienation,
-and the impossibility of my making a happy progress without the Divine blessing: so,
-in the sincerity of my heart, I obeyed the heavenly vision,
-became as a fool amongst my companions, and an alien amongst my intimate acquaintance.
-I sought retirement and the company of them who companied with Jesus.
-My sincerity was seen by the great Creator,
-and many were the baptisms I was baptized with in that day:
-it was also felt by his approved servants,
-and close was the fellowship cemented between many of their spirits and mine.
-Thus I have gone on to this day and hour, on the same search, hungry and thirsty still;
-not desiring any thing so much as the bread of life for myself and my dear friends,
-companions in the same travail.
-
-Though possessed of superior natural abilities,
-and adorned with the gifts and graces of the spirit, he did not value himself thereon;
-but steadily advanced in his pilgrimage,
-bowed down under a grateful sense of the numerous favours received at the Divine hand.
-To his most intimate friends he frequently enforced the necessity of humility,
-as the only safe situation to keep continually in; dreading lest himself,
-or those he dearly loved, should by the stratagems of the enemy be drawn therefrom.
-His naturally cheerful disposition being in great measure regulated by best wisdom,
-he had much enjoyment of social and domestic comforts,
-with which he was remarkably blest.
-He was a kind, affectionate husband, a tender and careful father, a good neighbour,
-liberal and generous,
-especially exemplary in any thing relating to the wants of our society.
-But he was careful that his attention should not
-be too long occupied by any thing in this world.
-Those who had the opportunity of minutely observing his conduct,
-have often perceived him retiring from company,
-to seek in secret a renewal of spiritual strength.
-And we doubt not with like filial piety,
-in the midst of his outward employ (which he conducted with great reputation)
-he was engaged frequently to ask for Divine counsel and wisdom,
-particularly when deprived by death of his highly-valued father.
-He recommended to his friends a practice which he found beneficial to himself,
-devoting a part of each evening to religious retirement:
-the effects of such sacrifices were at times obvious in him,
-his countenance indicating that he had been in the best company.
-
-The prosperity of genuine Christianity was the object of his greatest solicitude:
-for this his spirit was exercised in deep mental travail:
-for this he was willing to be employed in any way consistent with Infinite Wisdom,
-in private or more public labour.
-He was particularly exemplary in a diligent attendance
-of meetings appointed for the good order of the society;
-and latterly, when at liberty from his outward occupation,
-he almost constantly attended the yearly meeting in London.
-He long filled with much propriety the weighty station of an elder.
-As his dwelling was near the spring of divine refreshment,
-he was often enabled to draw water for the benefit of others.
-He was a man of great benevolence,
-and the welfare of his fellow creatures was very near his heart,
-frequently expressing his deep travail of spirit for the salvation of all mankind.
-For the departure from ancient purity, obvious in our religious society,
-he deeply mourned: on this account his tears were poured forth;
-yet he was consoled in hope,
-that through suffering and patience the church would
-come forth from her wilderness state,
-though he did not expect to see it in his day.
-
-He was often engaged in family-visits in divers parts,
-and was earnest that the flock might be led into fresh and living pastures,
-and feed securely beside the still waters.
-He used to say that he esteemed it his honour to be allowed to tread these courts,
-or to be employed on any little errand, as a boy or runner, about the house;
-because in this house there was abundance of soul-sustaining
-nourishment--there was bread enough and to spare;
-and when thus broken in spirit amongst his friends,
-and thus pouring forth the warm expression of his gratitude,
-he would speak largely of the beauty of the house of God, how it is all glorious,
-how its pavement shone with holiness,
-and how clean ought to be the feet which trod therein.
-He was well gifted for this private labour in families,
-which he believed our Lord particularly intended,
-when he enjoined the disciples to wash one another`'s feet;
-being an unceasing obligation on all their successors in the truth,
-to do even as He had done to them,
-that by this exercise of discipline the members might
-be preserved clean from spot or blemish.
-Being endued with the spirit of discernment respecting ministry,
-(which he earnestly desired might flow pure and unmixed from the
-sacred spring,) he was well qualified to be a nursing father to
-those in the station of minister who wanted a hand of help;
-and such he encouraged to an humble, simple, faithful,
-diligent occupying with the divine gift.
-
-In a letter a few months before his decease he wrote:
-"`The faithfulness and dedication of some of you has been cause of joy,
-and a kind of triumph to me; so that, according to my measure,
-I can join a remnant in adopting the apostle`'s expression: "`For what is our hope,
-or joy, or crown of rejoicing?
-Are not even ye in the presence of our Lord Jesus Christ at his coming?
-for ye are our glory and joy.`"
-To the Lord alone be the praise of his own works, but "`let his own works praise him.`"
-He was fervent in intercession for his beloved offspring,
-that they might be preserved near the source of all our blessings;
-and as they dwelt humbly before Him, who is Lord of earth as well as heaven,
-he had no doubt but a sufficiency of the good things of this life would be granted them,
-with a "`treasure in the heavens that faileth not.`"
-To a particular friend, about three weeks before his decease, he wrote,
-"`I trust that we know something of the vicissitude of day and night,
-and the revolution of the Lord`'s year in our spirits;
-and that He will be mercifully pleased to deliver us from evil,
-and preserve us to the end, and at the end.`"
-
-Being on a visit to our provincial school at Mountmellick,
-he was taken ill at the house of our friend John Gatchell.
-Under the heavy pressure of his disorder, which was termed a low fever,
-he said he did not know how the dispensation would terminate;
-if it was come for the final separation he feared he was not prepared,
-but he believed the baptism of sickness was necessary for purification.
-After much depression of mind, he was encouraged in the recollection of Isaiah, xl.
-chapter, 1st and 2nd verses: "`Comfort ye, comfort ye my people, saith your God.
-Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished,
-that her iniquity is pardoned;
-for she hath received of the Lord`'s hand double for all her sins.`"
-He discovered no impatience, lay calm,
-and spoke at times rather cheerfully to those about him.
-He once said, "`I think it a favour that I feel a sympathy with the seed in suffering.`"
-He spoke of what a gloomy day it was in Jerusalem
-when our Lord was about to be offered up,
-how afflicted the women were who followed him, and how he exhorted them:
-"`Daughters of Jerusalem, weep not for me, but weep for yourselves,
-and for your children.`"
-Also how the high professors arrayed him in a purple robe, and mocked him;
-and that now the same spirit was setting up a mockery of Christianity,
-while they were crucifying him afresh.
-He said that the present times required to send for the mourning women,
-such as were skilful in lamentation.
-At another time, appearing under great languor and depression, he said, "`My friends,
-my friends, pray for me, that my patience fail not.`"
-To some taking leave of him,
-he recommended faithfulness and dedication to religious duties,
-which would draw down the blessing on them, and on their families:
-he said that what we profess is the truth,
-which our worthy predecessors were so eminently called to support,
-laying the axe to the root of the corrupt tree.
-He spoke of a sacrifice which David made that was accepted,
-even a broken and a contrite spirit; and he hoped that his also was accepted.
-
-Early in the morning of the 28th of 8th month, being the eighth day of his illness,
-he passed through sore conflict.
-For about an hour he was favoured with calmness;
-frequently embraced a beloved child who attended him;
-and about seven o`'clock the same morning, quietly departed this life,
-in the 66th year of his age.
-His remains, being conveyed to Ballitore, were interred the 30th of the month,
-after a solemn meeting.
-
-Having been uncommonly blessed with health,
-and his mental faculties continuing undiminished, to his beloved wife,
-numerous friends and connections, his removal was an unexpected stroke.
-We doubt not his purified spirit is now in the enjoyment of an everlasting crown.
-May we profitably feel our loss! "`Who then is a faithful and wise servant,
-whom his Lord hath made ruler over his household, to give them meat in due season?
-Blessed is that servant whom his Lord when he cometh shall find so doing.
-Verily I say unto you, that he shall make him ruler over all his goods.`"
-
-[.asterism]
-'''
-
-The Testimony of his friend Edmund Burke,
-who also could justly appreciate the character of
-him whom he had loved so long and so sincerely,
-ought, in justice to their mutual friendship, to find a place here.
-
-Letter From Edmund Burke To Mary Leadbeater.
-
-Beaconsfield, September 8th, 1792.
-
-My Dear Madam,
-
-After some tears on the truly-melancholy event,
-of which your letter gives me the first account,
-I sit down to thank you for your very kind attention to me, in a season of so much,
-and so just sorrow to yourself.
-Certainly my loss is not so great as yours,
-who constantly enjoyed the advantage and satisfaction of the society of such a companion,
-such a friend, such an instructor, and such an example:
-yet I am penetrated with a very sincere affliction, for my loss is great too.
-I am declining, or rather declined in life; and the loss of friends,
-at no time very reparable, is impossible to be repaired at all in this advanced period.
-His annual visit had been for some years a source
-of satisfaction that I cannot easily express.
-He had kept up the fervour of youthful affections; and his vivacity and cheerfulness,
-which made his early days so pleasant, continued the same to the last:
-the strictness of his virtue and piety had nothing in it of morose or austere;
-and surely no life was better, and, it is a comfort to us to add,
-more happily spent than his.
-I knew him from the boyish days in which we began to love each other:
-his talents were great, strong, and various;
-there was no art or science to which they were not sufficient in the contemplative life,
-nor any employment that they would not more than adequately fill in the active.
-Though his talents were not without that ambition
-which generally accompanies great natural endowments,
-it was kept under by great wisdom and temperance of mind;
-and though it was his opinion that the exercise of virtue was more easy,
-its nature more pure, and its means more certain in the walk he chose, yet in that,
-the activity and energy which formed the character of his mind, were very visible.
-Apparently in a private path of life, his spirit was public.
-You know how tender a father he was to children worthy of him;
-yet he extended himself more widely,
-and devoted a great part of his time to the good of that society, of no mean extent,
-of which the order of Divine Providence had made him a member.
-With a heart far from excluding others,
-he was entirely devoted to the benefit of that society,
-and had a zeal very uncommon for everything which regarded its welfare and reputation;
-and when he retired, which he did wisely, and in time,
-from the worthy occupation which he filled in a superior manner,
-his time and thoughts were given to that object.
-He sanctified his family benevolence, his benevolence to his society, and to his friends,
-and to mankind, with that reverence in all things to the Supreme Being,
-without which the best dispositions, and the best teaching, will make virtue,
-if it can be at all attained, uncertain, poor, hard, dry, cold, and comfortless.
-Indeed we have had a loss, I console myself under it,
-by going over the virtues of my old friend, of which, I believe,
-I am one of the earliest witnesses, and the most warm admirers and lovers.
-
-Believe me, this whole family,
-who have adopted my interest in my excellent departed friend,
-are deeply touched with our common loss, and sympathize with you most sincerely.
-I hope you will assure my dear friend, Mrs.
-Shackleton, the worthy wife of my late invaluable friend,
-that we sympathize cordially in all she feels; and join our entreaties to yours,
-that she will preserve to you,
-as much as possible of the friend and parent you have lost.
-
-Edmund Burke
-
-[.asterism]
-'''
-
-The following letter is from Thomas Wilkinson.
-
-Yanwath, 25th of Tenth Month, 1792.
-
-Dear Friend,
-
-It is certainly more congenial to my disposition to visit the abodes of sorrow,
-than the mansions of joy and festivity;
-not that I am insensible to the comfort and happiness of those I love,
-but if my friends are more near to me at one period than another,
-it is when they are under the pressure of affliction.
-Though I have deferred paying my visit of sympathy and affection in this way till now,
-it was not because you were not daily in my remembrance;
-but sorrow is not at all times communicative,
-and I reflected that numerous would be the tributes
-of condolence on the late mournful occasion:
-mine might, perhaps, have been spared.
-Of your loss I make estimation from what I have felt myself I have but twice
-in my life had the satisfaction of any personal intercourse with the dear deceased,
-and these at six years`' distance from each other;
-yet the lively impression of Richard Shackleton, left thereby on my mind,
-is equalled by few indeed.
-Few indeed possessed the powers of engaging and improving those around them,
-by their society, like him.
-His pleasant and communicative disposition opened his way with all ranks.
-It sometimes happens that the great and the good are encircled by a forbidding gravity,
-(I mean,
-something distinct from religious authority,) but in him the love of the
-Almighty was shown in kindness and good-will to those around him:
-this gave him place wherever he came,
-and his mind seemed equally fit for the vigour of reasoning,
-the capacious range of science,
-or to comfort and bring forward the hindmost of his brethren and sisters.
-To me he was kind indeed, and there is a sweetness accompanies his memory in my mind,
-hard to be described,
-which I believe will be the general feeling where he was known
-so that his loss will be as extensive as his acquaintance,
-and lasting as the present generation: to you, dear friends,
-it must be peculiarly trying,
---you who felt his paternal care,--you who felt the
-cheering influence of his daily conversation,
-and saw a thousand little acts of solicitude and kindness,
-unknown to the eyes of his more distant friends.
-
-I need not, I cannot enlarge.
-Farewell: if the cloud of mourning overshadows your valley,
-extend your prospect to that bright region, where your father, companion, and friend is,
-I believe, gathered to the just of all generations; and where a few more days,
-a few more tears, a few more struggles, and, if we follow the Light that guided him,
-we shall rejoin his released spirit,
-and be united to the redeemed and happy forever and ever!
 
 Notwithstanding the declining state of Elizabeth Shackleton`'s faculties, she felt,
 with all its weight and poignancy,

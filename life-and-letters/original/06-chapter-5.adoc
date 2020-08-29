@@ -1,9 +1,15 @@
 == Chapter V.
 
+[.chapter-subtitle--blurb]
 Letters written between the years 1781 and 1788, inclusive.
 
-Elizabeth Shackleton To Her Husband.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Elizabeth Shackleton to Her Husband.
+
+[.signed-section-context-open]
 Ballitore, 1781.
 
 Though it was agreeable to get a letter from thee,
@@ -27,13 +33,18 @@ The more we are reduced and brought into the littleness,
 (as thy father used to say,) and kept in it, the more helpful we shall be,
 as instruments in the hand of the Almighty, who can work by whom it pleaseth him to work.
 
+[.signed-section-signature]
 Elizabeth Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Ballitore, 7th of 1st Month, 1781,
 
 I suppose thy good man Samuel is by this time in Cork.
@@ -66,13 +77,18 @@ yet it is not amiss for us to commune together on the way, concerning these thin
 and doubtless is acceptable to our great Preserver,
 when in a right spirit we commemorate his benefits.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Mary.
 
+[.signed-section-context-open]
 Tottenham, 14th of 6th Month, 1781.
 
 +++_________+++ is a sprightly, sensible woman; but would suit my taste much better,
@@ -104,13 +120,18 @@ than enjoy the pleasures of sin for a season.
 So though no man knows where the visible part of him was buried, yet his memory lives,
 and preaches loudly to us, to this day.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Sarah.
 
+[.signed-section-context-open]
 Newport Pagnel, 18th of 6th Month, 1781.
 
 Where there is not the salt of religion, to me company is exceedingly insipid.
@@ -139,15 +160,21 @@ as much, or perhaps more, in a retrograde direction.
 Such a conduct is dangerous; no comfortable composure abides with us on the way,
 and the night may overtake us, before we have completed the labour of the day.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Ballitore, 4th of 7th Month, 1781.
 
+[.salutation]
 My Dear Margaret,
 
 Through the benignity of gracious Providence still extended to thy poor father,
@@ -170,15 +197,21 @@ whose support is sufficient for every trial,
 and who is near to help in the deepest affliction.
 Who would not by all means assiduously cultivate such patronage?
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Son.
 
+[.signed-section-context-open]
 Dublin, 1st of 11th Month, 1781.
 
+[.salutation]
 Dear Abraham,
 
 We got well and in good time hither.
@@ -211,13 +244,18 @@ I know the source of her backwardness,
 and it is among the many things which rivet my affection to her.
 She is herself an epistle written in my heart, which I often read with delight.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Son-In-Law G.
 
+[.signed-section-context-open]
 Ballitore, 18th of 12th Month, 1781.
 
 I would not be wanting to myself and family in taking
@@ -246,15 +284,21 @@ My care and industry were blessed with competence; and if this now,
 in the decline of life, be diminished, I hope that, through the same blessing,
 a competence will still remain.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
-Elizabeth Shackleton To Her Daughter Margaret.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Elizabeth Shackleton to Her Daughter Margaret.
+
+[.signed-section-context-open]
 Ballitore, 18th of 1st Month, 1782.
 
+[.salutation]
 My Dear Margaret,
 
 Thy favouring me with the first letter after thy confinement
@@ -294,13 +338,18 @@ can alone qualify us to train up our children in the nurture and admonition of t
 and we had need keep close to this assistance, as we are frail,
 and our natural part ready to interfere.
 
+[.signed-section-signature]
 Elizabeth Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to John Thorpe.
 
+[.signed-section-context-open]
 Ballitore, 24th of 2nd Month, 1782.
 
 I have some faint remembrance that, when I had the pleasure of thy company,
@@ -326,13 +375,18 @@ may, under his blessed influence, as iron sharpens iron, and diamond cuts diamon
 be made instrumental of help to one another,
 and consequently of help to the monthly meeting at large.`"
 
-Richard Shckleton.
+[.signed-section-signature]
+Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Ballitore, 11th of 8th Month, 1782.
 
 The harvest of the world and the harvest of the church, conspire to occupy our attention.
@@ -374,15 +428,19 @@ cause invidious reflections, and be productive of many inconveniences.
 Taking these little hints along with you, may you love one another most cordially, say I,
 and may the Divine blessing sanctify your love!
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Son.
 
-Clonmel, 8th of 10th Month.
-1782.
+[.signed-section-context-open]
+Clonmel, 8th of 10th Month. 1782.
 
 Clouds filled with gospel rain, wafted along by the Divine Spirit,
 compressed by the Almighty hand, and discharging themselves on the people,
@@ -431,15 +489,21 @@ is (like the dog and the shadow in the fable) the way to lose the substance.
 The variety of gifts, like the variety of chords in David`'s harp,
 constitutes the harmony, more sublime and beautiful than a dull monotony.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
-Richard Shackleton To Sarah Robert Grubb.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to Sarah Robert Grubb.
+
+[.signed-section-context-open]
 Ballitore, 24th of 12th Month, 1782.
 
+[.salutation]
 My Dear Cousin,
 
 Having on the 22nd instant received the two enclosed letters to forward,
@@ -482,15 +546,21 @@ be sure it will be very acceptable to me.
 If thou hast been at the province meeting of Cork, send me the history of it.
 Julius Caesar fought the battles, and recorded the narrative of them, with the same hand.
 
+[.signed-section-closing]
 I am, my dear cousin, thine, very affectionately,
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From the Same to the Same.
 
+[.signed-section-context-open]
 Ballitore, 10th of 1st Month, 1783.
 
 I am obliged to my dear cousin for her kind, confidential letter.
@@ -533,15 +603,21 @@ Thou hast not only my love, but the love of all my house.
 Remember us dearly to thy husband; to thy worthy brother and sister,
 where you at present quarter; and be assured I am, in sympathy,
 
+[.signed-section-closing]
 Thy truly affectionate friend and kinsman,
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Son.
 
+[.signed-section-context-open]
 Dublin, 22nd of 2nd Month, 1783.
 
 It was a good day to thee,
@@ -563,16 +639,22 @@ and perplexities, and difficulties: may Solomon`'s wise choice be yours,
 and may you happily obtain substantial wisdom to direct,
 and substantial help and comfort to confirm your steps, and strengthen you in your way.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Mary,
 
+[.centered]
 Concerning his danger on ship-board,
 coming from England with John Pemberton and William Mathews.
 
+[.signed-section-context-open]
 Athy, 23rd of 8th Month, 1783.
 
 I had just lain down for the night,
@@ -587,11 +669,15 @@ For a few minutes I was held in anxious suspense, but preserved from abject fear
 in a few minutes she floated again, and we got off.
 This was a preservation to be commemorated with humble gratitude!
 
-[.asterism]
-'''
+--
 
-Richard Shackleton To Sarah R. Grubb.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to Sarah R. Grubb.
+
+[.signed-section-context-open]
 Ballitore, 25th of 11th Month, 1783.
 
 My wife, son, and daughters Lydia, Mary, Sarah, and I,
@@ -617,10 +703,18 @@ My wife and children join me in the salutation of dear love to you all.
 Hoping, waiting, expecting, longing for thy promised packet, I remain,
 as patiently as I can, thy truly affectionate kinsman,
 
+[.signed-section-signature]
 Richard Shackleton.
 
-Elizabeth Shackleton To Her Husband.
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+Elizabeth Shackleton to Her Husband.
+
+[.signed-section-context-open]
 Ballitore, 5th of 1st Month, 1784.
 
 It gives me satisfaction that thou feelest support,
@@ -642,13 +736,18 @@ and then I doubt not but they will be prosperous and useful in their generation,
 and have wisdom afforded them to train up their dear children,
 both by example and precept, in the nurture and admonition of the Lord.
 
+[.signed-section-signature]
 Elizabeth Shackleton.
 
-[.asterism]
-'''
+--
 
-Richard Shackleton To J. T.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to J. T.
+
+[.signed-section-context-open]
 Ballitore, 14th of 3rd Month, 1784.
 
 To be in a state of acceptance with our Creator,
@@ -666,15 +765,21 @@ that I may be enabled to act my future part more acceptably-- show
 forth a more striking example of what it is to put on Christ,
 and leave conspicuous and safe way-marks to the succeeding generation.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Deborah.
 
+[.signed-section-context-open]
 Foston, 7th of 7th Month, 1784.
 
+[.salutation]
 My Dear Deborah,
 
 Having some leisure on my hands at this place,
@@ -701,13 +806,18 @@ I much desire your welfare and happiness,
 and that it may please Divine Providence to take you and your little family,
 and keep yon under his continued gracious care.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Foston, 8th of 7th Month, 1784.
 
 I am often, I think,
@@ -742,13 +852,18 @@ The men seem to have slept a long time over this matter; but now,
 like the rib which was taken out of Adam`'s side while fie slept, I hope it will,
 in process of time, become a true help-meet to the man in the discipline of the church.`"
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Wife.
 
+[.signed-section-context-open]
 Colebrook Dale, 4th of 8th Month, 1784.
 
 This is the most extraordinary place I ever was in:
@@ -793,13 +908,18 @@ as well as in our relative duties to others:
 so shall we be favoured with the inspiration of that exhilarating breath of life,
 which makes and preserves us living souls.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
-Richard Shackleton To John Thorp.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to John Thorp.
+
+[.signed-section-context-open]
 Ballitore, 21st of 9th Month, 1784.
 
 How little, how nothing is at our command!
@@ -831,11 +951,15 @@ So that "`watch and pray`" remain to be the words
 of counsel and indispensable injunction to all,
 without respect of persons.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Ballitore, 20th of 8th Month, 1785.
 
 Health is an extraordinary favour:
@@ -880,13 +1004,18 @@ A sense of this has, at times, much humbled and prostrated my spirit,
 with desire that whatever little, or however little I might be,
 I might be what the Master would have me to be--I might be right.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Sarah.
 
+[.signed-section-context-open]
 Ballitore, 12th of 1st Month, 1786.
 
 The intelligence received of the two Margarets is very pleasing, and, I hope,
@@ -910,17 +1039,24 @@ manifests unsoundness in the spiritual constitution,
 by the vitiated taste of desiring and relishing food that is not fresh, plain,
 and wholesome! "`Tis dangerous, and destructive to the tender, precious, life.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to Joseph and Sarah Poole.
 
+[.centered]
 On the death of their son, who died of the small-pox, 12th month, 1785, aged sixteen.
 
+[.signed-section-context-open]
 Ballitore, 12th of 1st Month, 1786.
 
+[.salutation]
 My Dear Friends,
 
 Having heard of the great trial which you have undergone, in the privation of your fine,
@@ -951,13 +1087,18 @@ whether joyous or grievous.
 
 My wife and children join in dear love to you both, with your truly affectionate friend,
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Sarah.
 
+[.signed-section-context-open]
 Ballitore, 2nd of 4th Month, 1786.
 
 Letters from my absent, distant children, do me good.
@@ -974,13 +1115,18 @@ opening and shutting, and remaining in the same place; we shall be mere formal,
 lukewarm professors of the faith of Christ, but never rightly-spirited,
 noble advocates in his cause.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret
 
+[.signed-section-context-open]
 Ballitore, 1786.
 
 It is well to be made rightly sensible,
@@ -1046,13 +1192,18 @@ I carry with me]. I hope that my first-born grandson
 will be permitted to cultivate that literary knowledge,
 which, when kept in due subordination, is an useful ornament in society.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Wife.
 
+[.signed-section-context-open]
 Clonmel, 24th of 7th Month, 1786.
 
 I think I can say, in truth, I feel an increase of tenderness,
@@ -1075,13 +1226,18 @@ an union which, I believe, has been blessed and sanctified.
 
 I trust you at home are all under the gracious care and protection of kind Providence.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Sarah.
 
+[.signed-section-context-open]
 Clonmel, 7th Month, 1786.
 
 You are all very dear to me.
@@ -1125,13 +1281,18 @@ which often attend the minds of those who faithfully do their duty,
 though amid the cares, and cumbers, and troubles, which must and will, at all events,
 fall to our lot here.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Mary.
 
+[.signed-section-context-open]
 Ballitore, 11th of 8th Month, 1786.
 
 We are much favoured, my dear children, by the countenance, kindness,
@@ -1147,13 +1308,18 @@ turn back into Egypt, that precious unity is immediately lost,
 the rights and privileges of the saints are forfeited,
 spiritual debility and decay ensue.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Mary.
 
+[.centered]
 Then on a visit at the house of Samuel Neale, who was dangerously ill.
 
+[.signed-section-context-open]
 Ballitore, 6th of 10th Month, 1786.
 
 When thou hast opportunity, present Samuel Neale with thy mother`'s and my dear love.
@@ -1189,13 +1355,18 @@ We charge thee with our very affectionate regards
 to the dear and worthy companion of our patient friend:
 her sufferings and anxiety on his account must be great.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Ballitore, 9th of 7th Month, 1787.
 
 I am pleased that +++_______+++ has at last got into our right honourable row.
@@ -1218,13 +1389,18 @@ and his will be submitted to, no danger will accrue.
 The wind will rise again when it listeth, the vessel will make its way;
 and when patience hath had its perfect work, all will be well.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Birr, 4th of 11th Mo. 1787.
 
 My present engagement is attending our dear friend
@@ -1262,13 +1438,18 @@ thou hast the means of a comfortable outward subsistence:
 all these great favours call for a rendering something;
 and this something roust be nothing less than all.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From the Same to the Same.
 
+[.signed-section-context-open]
 Ballitore, 25th of 11th Month, 1787.
 
 No doubt thou hast been communicating with thy uncle Benjamin about the national visit,
@@ -1290,15 +1471,21 @@ Acts of charity are noble, and acceptable in the sight of Heaven.
 If it be at all lawful to desire riches,
 it must surely be that they may be employed in such purposes.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
-Elizabeth Shackleton To Sarah R. Grubb.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Elizabeth Shackleton to Sarah R. Grubb.
+
+[.signed-section-context-open]
 Ballitore, 1st of 1st Month, 1788.
 
+[.salutation]
 My Dear Friend And Cousin,
 
 By a letter my husband received from thee,
@@ -1322,15 +1509,21 @@ but with the weapons of his spirit, which, when humbly depended upon,
 are mighty to the pulling down of the strong holds that
 sin and Satan have built up in the hearts of many.
 
+[.signed-section-closing]
 I am, with much affection, thy true and faithful friend,
 
+[.signed-section-signature]
 Elizabeth.
 
-[.asterism]
-'''
+--
 
-Richard Shackleton To Sarah R. Grubb.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to Sarah R. Grubb.
+
+[.signed-section-context-open]
 Ballitore, 9th of 1st Month, 1788.
 
 Henry Wilkins`' removal seems a loss indeed to religious society.
@@ -1359,13 +1552,18 @@ and as there is an abiding in humility, simplicity, and singleness of heart,
 there is no danger but the great Shepherd will lead in and out, and provide pasture,
 immediate sustenance, and provender for the service.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Ballitore, 9th of 2nd Month, 1788.
 
 The last report concerning our beloved friend Elizabeth Pike was rather favourable;
@@ -1385,13 +1583,18 @@ that his will may be done in, by, and through his servants;
 that so the Great Name may be more and more honoured,
 the knowledge of the truth extended, and the right way and worship spread among mankind.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
-Richard Shackleton To John Thorp.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to John Thorp.
+
+[.signed-section-context-open]
 Ballitore, 24th of 3rd Month, 1788.
 
 I think, notwithstanding that there exists too much cause for the language of complaint,
@@ -1428,13 +1631,18 @@ our feet unfettered and ready to run on bis errands,
 and our hearts replete with the joyful answer, of "`well done,
 good and faithful servant.`"
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Ballitore, 22nd of 7th Month, 1788.
 
 We were pleased with being at the province meeting of Wicklow: it was small,
@@ -1451,13 +1659,18 @@ I hope some of us are favoured with hearts of flesh, spiritual flesh,
 which is nourished and strengthened by the communication of glad tidings of great joy,
 and which is also pained and distressed with the afflictions of the gospel.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
-Richard Shackleton To Sarah R. Grubb.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to Sarah R. Grubb.
+
+[.signed-section-context-open]
 Ballitore, 11th of 9th Month, 1788.
 
 I congratulate thee and thy husband on your return in safety to poor Ireland,
@@ -1508,15 +1721,21 @@ and joined by my wife and children,
 in a salutation of love to you and our beloved friends and kinsfolk there,
 remain very affectionately thine,
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
-Elizabeth Shackleton To Her Daughter Margaret.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Elizabeth Shackleton to Her Daughter Margaret.
+
+[.signed-section-context-open]
 Ballitore, 26th of 9th Month, 1788.
 
+[.salutation]
 My Dear Daughter Margaret,
 
 I intended to have acknowledged the receipt of thy very kind, intelligent letter,
@@ -1555,14 +1774,18 @@ go forth in a sense of her own weakness.
 We also heard of dear A. T.`"s amendment in health,
 and appearing in a more public way than usual.
 
+[.signed-section-signature]
 Elizabeth Shackleton.
 
-[.asterism]
-'''
+--
 
-Richard Shackleton To Sarah.
-R+++.+++ Grubb.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to Sarah. R+++.+++ Grubb.
+
+[.signed-section-context-open]
 Ballitore, 9th of 10th Month, 1788.
 
 My better half bids me remember her very affectionately to thee,
@@ -1580,13 +1803,18 @@ Continue, therefore, my very dear friend, cheerfully to submit to all kinds of l
 which the Master may put thee to.
 Labour is wholesome, and procures sweet bread.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Ballitore, 9th of 11th Month, 1788.
 
 Thou wilt probably, from some one or other, have had some account of our national meeting.
@@ -1615,13 +1843,18 @@ by and through them, under divine protection and direction,
 the continued back-sliding of a degenerate people, may in a good measure be stopped,
 and the Lord may be graciously pleased to return to the many thousands of Israel.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
-Richard Shackleton To Sarah R. Grubb
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to Sarah R. Grubb
+
+[.signed-section-context-open]
 Ballitore, 23rd of 11th Month, 1788.
 
 I would just simply say,
@@ -1652,15 +1885,21 @@ let her remember the wise man`'s experience:
 "`He that feareth God shall come forth out of them all.`"
 And as I believe she is one of those, such, I trust and hope, will be her experience.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Daughter Margaret.
 
+[.signed-section-context-open]
 Ballitore, 24th of 12th Month, 1788.
 
+[.salutation]
 My Dear Margaret,
 
 The last of thy precious letters, which has come to my knowledge, is of the 11th instant,
@@ -1731,13 +1970,18 @@ may she mind well the work before her! and that is enough for me.
 Her preservation and her progress in the heavenly pilgrimage,
 is the object of my solicitous desire.
 
+[.signed-section-signature]
 Richard Shackleton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From the Same to the Same.
 
+[.signed-section-context-open]
 Ballitore, 30th of 1st Month, 1788.
 
 With my dear love, tell Elizabeth Pim I received her letter.
@@ -1758,4 +2002,7 @@ and sliding backwards, who do not go forward according to divine appointment.
 
 Our dear love to that family, always including thy aunt Taylor.
 
+[.signed-section-signature]
 Richard Shackleton.
+
+--
