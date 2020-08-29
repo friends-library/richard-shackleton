@@ -1,7 +1,10 @@
 == Chapter II.
 
-Memoirs of Elizabeth Carleton`'s early life--Extracts from Letters--Richard
-Shackleton`'s second marriage--Some account of the establishment at Ballitore.
+[.chapter-synopsis]
+* Memoirs of Elizabeth Carleton`'s early life
+* Extracts from Letters
+* Richard Shackleton`'s second marriage
+* Some account of the establishment at Ballitore
 
 Elizabeth Carleton^
 footnote:[Elizabeth Carleton was descended from a good stock: her paternal grandfather,
@@ -32,6 +35,9 @@ and was preparing to work a picture for an exhibition, when the ministry of a fr
 on a religious visit in Ireland,
 was made instrumental to discover to her the vanity of the things in which she had delighted.
 The account of this period of her life is thus related by herself.
+
+[.embedded-content-document.testimony]
+--
 
 As long as I can remember, I think I was of a diffident, cowardly disposition,
 fearful of doing what I knew was wrong, lest I should be punished; yet, when very young,
@@ -174,6 +180,8 @@ She was a tender, loving friend,
 and willing to encourage the youth who were desirous
 to be what the Lord would have them to be.
 
+--
+
 To this truly pious and amiable friend, Elizabeth Carleton,
 Richard Shackleton made proposals of marriage.
 The two situations which she most wished to avoid,
@@ -193,10 +201,16 @@ The difficulties which she anticipated, vanished or were made easy to her; and s
 in the worth and affection of her excellent companion,
 those blessings which constitute the happiness of married life.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Shackleton to His Father.
 
+[.signed-section-context-open]
 Dublin, 1st of 11th Month, 1755.
 
+[.salutation]
 Dear Father,
 
 The meeting began this day for the nation.
@@ -213,14 +227,24 @@ and not be productive of the fruit intended by them.
 And with sorrow it may be too often said of them: "`Their goodness is as a morning cloud,
 and as the early dew it goes away.`"
 
+[.signed-section-closing]
 Your affectionate son,
 
-Richard Shackleton.
+[.signed-section-signature]
+Richard Shackleton
 
+--
+
+[.offset]
 Richard Shackleton and Elizabeth Carleton were married the 17th of 10th Month, 1755.
 
-Richard Shackleton to His Mother-In-Law, Rachel Carleton.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Richard Shackleton to His Mother-in-Law, Rachel Carleton.
+
+[.signed-section-context-open]
 Ballitore, 16th of 12th Month, 1755.
 
 It would give me pleasure,
@@ -238,9 +262,13 @@ and is the crown of the aged as well as the youth.
 That this may be our chiefest care to seek after, whether old or young,
 is the sincere desire of
 
+[.signed-section-closing]
 Your dutiful and affectionate son,
 
+[.signed-section-signature]
 Richard Shackleton.
+
+--
 
 In 1759, Elizabeth Shackleton`'s mother, and her sister Deborah, settled in Ballitore;
 and, ultimately,
@@ -340,13 +368,13 @@ Richard Shackleton was blessed with a cheerful, contented mind,
 conducive to his own happiness, and the happiness of all around him.
 He was prepared to adopt the language of the poet:
 
-"`Ten thousand thousand precious gifts,
-
+[verse]
+____
+Ten thousand thousand precious gifts,
 My daily thanks employ;
-
 Nor is the least a cheerful heart,
-
-That tastes those gifts with joy.`"--Addison.
+That tastes those gifts with joy.--Addison.
+____
 
 The fault of his temper was quickness, not violence;
 but this was soon subjected to his judgment,
@@ -390,13 +418,13 @@ prompted her to visit the fatherless and widows in their affliction;
 and in fulfilling these duties,
 she experienced that feeling so excellently described by the poet:
 
-"`The heart which bleeds for others`' woes,
-
+[verse]
+____
+The heart which bleeds for others`' woes,
 Shall feel each selfish sorrow less;
-
 The breast which happiness bestows,
-
-Reflected happiness shall bless.`"--Cartwright.
+Reflected happiness shall bless.--Cartwright.
+____
 
 Being enabled to overcome evil with good, she was sincerely beloved,
 and seemed to be made a blessing to some who had at one time been prejudiced against her.
@@ -478,10 +506,14 @@ she was instructed so to speak, as seldom, if ever, to offend;
 and we cannot calculate how much good may have been produced
 by those alms (if they may be so termed) given in secret.
 
+[.offset]
 The manner in which Elizabeth Shackleton was strengthened to perform her duties,
 is thus described by herself.
 
-"`Being sensible of my own inability, my dependance was on Divine help,
+[.embedded-content-document.letter]
+--
+
+Being sensible of my own inability, my dependance was on Divine help,
 which I had often experienced in times of need.
 I was favoured with understanding and knowledge for the business,
 beyond what I could have thought; my careful,
@@ -501,7 +533,9 @@ meetings for discipline to which we belonged,
 as well as quarterly and half-yearly meetings; also to show, by an exemplary life,
 the efficacy of the principles of truth we professed to be led by,
 among the numerous acquaintance we had;
-being employed by many who knew little or nothing of those principles.`"
+being employed by many who knew little or nothing of those principles.
+
+--
 
 An instance of this occurred, when a gentlewoman, on leaving her son,
 requested of Richard Shackleton that he might be permitted to read the Bible.
