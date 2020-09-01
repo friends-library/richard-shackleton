@@ -441,13 +441,8 @@ but the great Disposer of events, in his inscrutable wisdom, ordered otherwise.
 --
 
 [.letter-heading]
-[.embedded-content-document.letter]
---
-
-[.letter-heading]
 Richard Shackleton to +++________+++
 
-[.signed-section-context-open]
 [.signed-section-context-open]
 Ballitore, 2nd of 1st Month, 1755.
 
@@ -471,7 +466,6 @@ Richard Shackleton.
 [.letter-heading]
 From the Same to the Same.
 
-[.signed-section-context-open]
 [.signed-section-context-open]
 Ballitore, 29th of 6th Month, 1755.
 
