@@ -1,4 +1,4 @@
-[#appendix, short="Appendix -- Additional Letters"]
+[short="Appendix -- Additional Letters"]
 == Appendix
 
 [.chapter-subtitle--blurb]
